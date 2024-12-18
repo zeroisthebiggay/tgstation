@@ -7,7 +7,7 @@
  */
 
 /// Beds
-/obj/structure/bed
+/obj/structure/bedt
 	name = "bed"
 	desc = "This is used to lie in, sleep in or strap on."
 	icon_state = "bed"
